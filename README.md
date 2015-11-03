@@ -1,5 +1,5 @@
 # html
-<h4>IE10及以上版本已将条件注释特性移除</h4>
+<h4><a href="http://css.doyoe.com/" target="_blank">IE10及以上版本已将条件注释特性移除</a></h4>
 <pre>
 如不想在非IE中看到某区域，可这样写：
 <textarea>
